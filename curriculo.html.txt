@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+    <!--Eu nunca tinha feito um curriculo então pode conter alguns erros...-->
+    <head>
+        <meta charset='utf-8'>
+        <title> Meu Curriculo em HTML </title>
+    </head>
+    <body>
+        <!--Coloquei meu endereço do local que estou no momento devido a pandemia-->
+        <ul>
+            <li>Rua Nossa Senhora da Penha, N<sup>o</sup> 49, Bairro Bela Vista <br>
+
+                <li>Jacundá-PA, 68590-000</li>
+                <li>Telefone: (94) 99128-5910</li>
+                <li>Email: katzillafx.sp@gmail.com </li>
+   
+            </li>
+
+        </ul>
+        <h2>Aurélio Henrique Brito Feitosa</h2>
+        <hr>
+        <h3>OBJETIVO:</h3>
+        <p>ANALISTA DE SISTEMA</p>
+        <hr>
+        <!--Não lembrei de outra ferramenta que poderia ajudar -->
+        <h4>HABILIDADES & COMPETÊNTICIAS</h4>
+        <dl>
+            <dd>Pontualidade e respeito a prazo.</dd>
+            <dd>Proativo e prestativo em resolver problemas.</dd>
+            <dd>Eficiencia em trabalho em equipe.</dd>
+            <dd>Habilidades de comunicação, adquiridas através de seminários e de canais no youtube.</dd>
+            <dd>Boa capacidade programação.</dd>
+
+        </dl>
+
+        <!--Tentativa anterior que deu um resultado igual mas era muito poluida-->
+        <!--<p>&nbsp &nbsp &nbsp &nbsp &nbsp Pontualidade e respeito a prazo. <br>
+        &nbsp &nbsp &nbsp &nbsp &nbsp Proativo e prestativo em resolver problemas. <br>
+        &nbsp &nbsp &nbsp &nbsp &nbsp Eficiencia em trabalho em equipe. <br>
+        &nbsp &nbsp &nbsp &nbsp &nbsp Habilidades de comunicação, adquiridas através de seminários e de canais no youtube. <br>
+        &nbsp &nbsp &nbsp &nbsp &nbsp Boa capacidade programação. <br>-->
+        
+        <hr>
+        <h3>EXPERIÊNCIA</h3>
+        <ul>
+            <li>Nenhuma</li>
+        </ul>
+        <h3>EDUCAÇÃO</h3>
+        <ul>
+            <li>ENSINO MÉDIO COMPLETO, CÓLEGIO ARTE DE EDUCAR (JACUNDÁ/PA) - 2018</li>
+            <li>UNIFESSPA, MARABÁ-PA, GRADUAÇÃO - 2019</li>
+        </ul>
+        <h3>COMUNICAÇÃO</h3>
+        <ol>
+            <li>Inglês - Básico</li>
+            <li>Espanhol - Básico</li>
+        </ol>
+        
+        <hr>
+        <h3>REFERÊNCIA</h3>
+        <ol>
+            <li>ROMAC SANTOS, Ex-Professor, Master Informática, (94) 99177-7777</li>
+        </ol>
+        
+    </body>
+</html>
