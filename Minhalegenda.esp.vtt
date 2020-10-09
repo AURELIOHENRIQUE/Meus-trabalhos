@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.330
+Python es un lenguaje de alto nivel, es decir, tiene un alto nivel de abstracción
+
+00:00:04.340 --> 00:00:08.330
+con comandos más cercanos al lenguaje humano que al lenguaje de máquina.
+
+00:00:08.340 --> 00:00:10.000
+aquí tenemos dos ejemplos
+
+00:00:11.330 --> 00:00:15.330
+con el código python a la izquierda y el código ensamblador a la derecha
+
+00:00:16.330 --> 00:00:22.500
+y podemos ver la diferencia entre la sintaxis de los dos, es mucho más fácil leer el código en python
+
+00:00:22.510 --> 00:00:28.000
+incluso si no tenemos idea de cómo funciona Python que leer el código ensamblador.
